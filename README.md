@@ -12,8 +12,7 @@ Reactとnext.jsで実装しました。
 
 ## デモンストレーション
 
-![会議の新規登録](./screenshot/creat-meeting.png)
-![会議の閲覧](./screenshot/view-meeting.png)
+![会議の新規登録場面](./screenshot/creat-meeting.png)
 
 **Releasesに動画もご用意しております**
 ([DemoVideo](https://github.com/Nagisa-Ka/meeting-manager/releases/tag/demo-video))
@@ -28,8 +27,8 @@ Reactとnext.jsで実装しました。
 
 ### 実際の状況を想定
 
-実際に所属しているコミュニティにおける状況を参考に、作成しました。<br/><br/>
-状況：会議の「日付や日程、参加者」を係の人が決め、参加者表の末尾の人が「部屋」を予約しに行きます。<br/><br/>
+実際に所属しているコミュニティにおける状況を参考に、作成しました。<br/>
+状況：会議の「日付や日程、参加者」を係の人が決め、参加者表の末尾の人が「部屋」を予約しに行きます。<br/>
 →→→ 部屋の登録だけ後からできるように設計しました。
 
 ### 閲覧を分かりやすく
